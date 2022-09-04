@@ -1,8 +1,8 @@
 package Ex1;
 
 public class Book {
-    public String name;
-    public int year;
+    private String name;
+    private int year;
 
     public void setName(String name) {
         this.name = name;
