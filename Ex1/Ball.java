@@ -1,8 +1,8 @@
 package Ex1;
 
 public class Ball {
-    public int size;
-    public String brand;
+    private int size;
+    private String brand;
 
     public Ball(int size, String brand) {
         this.size = size;
